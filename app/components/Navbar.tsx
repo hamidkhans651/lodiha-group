@@ -27,7 +27,7 @@ const Navbar = () => {
         <div className=" toggle hidden w-full md:w-auto md:flex text-right text-bold mt-5 md:mt-0 md:border-none text-black">
           <a href="#home" className="block md:inline-block hover:text-blue-500 px-3 py-3 md:border-none">Home
           </a>
-          <a href="#services" className="block md:inline-block hover:text-blue-500 px-3 py-3 md:border-none">About us
+          <a href="#services" className="block md:inline-block hover:text-blue-500 px-3 py-3 md:border-none">About us form
           </a>
           <a href="#aboutus" className="block md:inline-block hover:text-blue-500 px-3 py-3 md:border-none">Products
           </a>
